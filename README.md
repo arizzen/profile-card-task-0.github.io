@@ -27,7 +27,7 @@ profile-card/
 ### Clone or Download
 Download or clone this repository:
 in your terminal:
-git clone https://github.com/your-username/profile-card.git
+git clone https://github.com/arizzen/profile-card-task-0.git
 cd profile-card
 
 ### Open in  Browser
